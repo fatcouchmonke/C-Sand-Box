@@ -1,0 +1,14 @@
+Notes for programing, 
+
+Code scratch pad 
+First code
+[
+    Console.WriteLine("Hello World!\n\nMy name is Kyle.\nThis is my first attempt at programing via C Sharpe.");
+    Console.ReadKey();
+    Console.WriteLine("My Favorite color is Red.");
+]
+
+To make a calculator
+[
+
+]

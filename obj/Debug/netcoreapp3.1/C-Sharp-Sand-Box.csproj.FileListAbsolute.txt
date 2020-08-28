@@ -1,0 +1,13 @@
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\bin\Debug\netcoreapp3.1\C-Sharp-Sand-Box.exe
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\bin\Debug\netcoreapp3.1\C-Sharp-Sand-Box.deps.json
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\bin\Debug\netcoreapp3.1\C-Sharp-Sand-Box.runtimeconfig.json
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\bin\Debug\netcoreapp3.1\C-Sharp-Sand-Box.runtimeconfig.dev.json
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\bin\Debug\netcoreapp3.1\C-Sharp-Sand-Box.dll
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\bin\Debug\netcoreapp3.1\C-Sharp-Sand-Box.pdb
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\obj\Debug\netcoreapp3.1\C-Sharp-Sand-Box.csprojAssemblyReference.cache
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\obj\Debug\netcoreapp3.1\C-Sharp-Sand-Box.AssemblyInfoInputs.cache
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\obj\Debug\netcoreapp3.1\C-Sharp-Sand-Box.AssemblyInfo.cs
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\obj\Debug\netcoreapp3.1\C-Sharp-Sand-Box.csproj.CoreCompileInputs.cache
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\obj\Debug\netcoreapp3.1\C-Sharp-Sand-Box.dll
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\obj\Debug\netcoreapp3.1\C-Sharp-Sand-Box.pdb
+C:\Users\fatco\OneDrive\Documents\GitHub\C-Sharp-Sand-Box\obj\Debug\netcoreapp3.1\C-Sharp-Sand-Box.genruntimeconfig.cache
